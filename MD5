@@ -1,0 +1,17 @@
+e480188e94cc296524242d8a7986fec8 *DESCRIPTION
+dda465b40d1cbe1ea0dd54bf7a01fbae *LICENSE
+9b00d32599991b1977acb811773eda5f *NAMESPACE
+13862519629ff73bc44defa15c8bb21e *NEWS.md
+7684df39c0885d7e36177f34ce5639ee *R/nn-mnist.R
+c2ef90ed225682469ab69f5719410141 *R/nn-train.R
+531999e5a3f16da236f9959f0aa44f15 *R/nn.R
+4afc6b4638c7ecbe0e63d88df9c91e89 *README.md
+aab5bca6e656cf38ffeec5813b98fdd5 *inst/WORDLIST
+fa89e42841c995adcc47160df90d5cb5 *man/backprop.Rd
+8c2d0088280483541b9bd293dd9ff741 *man/forwardprop.Rd
+685a588686c162a19914e137699e0950 *man/init_nn.Rd
+718ef4ce9677d51d9fde6ee80ff95eb0 *man/load_mnist_test.Rd
+bbbdddd262cc885392c5f619d8cbfbdc *man/load_mnist_train.Rd
+1b3d56c1b43d873c8bbee00925281e78 *man/one_hot_encoding.Rd
+8d691eef2f2dd683987a2856fc939378 *man/train_nn.Rd
+8351643e4b3b657291ffe01a190f2c70 *man/update.Rd
